@@ -1,6 +1,8 @@
 # Handling_vip
 Como poner handling vip: Ruedas pegadas al suelo...
 
+# Entra en la opcion CODE para tener la linia.
+
 Opciones del handling:
 
 Para que se pege al suelo el coche/moto, lo que tienes que hacer es poner la siguiente linia:
