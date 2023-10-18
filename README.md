@@ -2,6 +2,7 @@
 Como poner handling vip: Ruedas pegadas al suelo...
 
 # Entra en la opcion CODE para tener la linia.
+[entra en el README!]
 
 Opciones del handling:
 
